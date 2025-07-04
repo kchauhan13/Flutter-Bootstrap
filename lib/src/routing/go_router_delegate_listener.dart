@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:starter_architecture_flutter_firebase/src/routing/app_router.dart';
+import 'package:flutter_bootstrap/src/routing/app_router.dart';
 
 // Listener widget to track screen views. Adapted from:
 // https://github.com/flutter/flutter/issues/112196#issuecomment-1680382232

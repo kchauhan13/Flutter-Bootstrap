@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:starter_architecture_flutter_firebase/src/constants/app_sizes.dart';
-import 'package:starter_architecture_flutter_firebase/src/utils/format.dart';
-import 'package:starter_architecture_flutter_firebase/src/features/entries/domain/entry.dart';
-import 'package:starter_architecture_flutter_firebase/src/features/jobs/domain/job.dart';
+import 'package:flutter_bootstrap/src/constants/app_sizes.dart';
+import 'package:flutter_bootstrap/src/utils/format.dart';
+import 'package:flutter_bootstrap/src/features/entries/domain/entry.dart';
+import 'package:flutter_bootstrap/src/features/jobs/domain/job.dart';
 
 class EntryListItem extends StatelessWidget {
   const EntryListItem({

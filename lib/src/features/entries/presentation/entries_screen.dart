@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:starter_architecture_flutter_firebase/src/constants/app_sizes.dart';
-import 'package:starter_architecture_flutter_firebase/src/constants/strings.dart';
-import 'package:starter_architecture_flutter_firebase/src/features/entries/domain/entries_list_tile_model.dart';
-import 'package:starter_architecture_flutter_firebase/src/features/entries/application/entries_service.dart';
-import 'package:starter_architecture_flutter_firebase/src/common_widgets/list_items_builder.dart';
+import 'package:flutter_bootstrap/src/constants/app_sizes.dart';
+import 'package:flutter_bootstrap/src/constants/strings.dart';
+import 'package:flutter_bootstrap/src/features/entries/domain/entries_list_tile_model.dart';
+import 'package:flutter_bootstrap/src/features/entries/application/entries_service.dart';
+import 'package:flutter_bootstrap/src/common_widgets/list_items_builder.dart';
 
 class EntriesScreen extends ConsumerWidget {
   const EntriesScreen({super.key});
